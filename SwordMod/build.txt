@@ -1,0 +1,3 @@
+displayName = Sword Mod
+author = Claudio
+version = 0.1
